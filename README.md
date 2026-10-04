@@ -1,113 +1,171 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=180&section=header&text=Mohan%20Rao%20Pathro&fontSize=42&fontColor=FFFFFF" alt="Mohan Rao Pathro" width="100%" />
-  <h1>Hi, I'm Mohan Rao Pathro 👋</h1>
-  <p>
-    <a href="https://github.com/mohanpathro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/mohan-rao-pathro-525b21373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://mohanpathro-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  </p>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=190&section=header&text=Mohan%20Rao%20Pathro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20CSE%20(Data%20Science)&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Python+%7C+FastAPI+%7C+PostgreSQL;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+AI-powered+applications;Learning+to+build+production-ready+AI+systems" /><br/><br/>
 
-A 3rd-year B.Tech CSE (Data Science) student building practical AI and backend systems that solve real-world problems.
+<a href="https://github.com/mohanpathro">
+<img src="https://img.shields.io/badge/GitHub-mohanpathro-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohan-rao-pathro-525b21373/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rao%20Pathro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohanpathro471@gmail.com">
+<img src="https://img.shields.io/badge/Email-mohanpathro471%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
 
-I’m especially interested in:
+💫 About Me
 
-- Python backend development
-- FastAPI and asynchronous APIs
-- PostgreSQL and database design
-- Generative AI and LLM-powered apps
-- RAG, agents, and tool-calling workflows
-- System design for production AI products
+🎓 I'm a 3rd-year B.Tech CSE (Data Science) student focused on becoming an AI Application Engineer.
 
-> My goal: build reliable AI systems that are useful, scalable, and genuinely impactful.
+I enjoy building software where backend engineering, AI, and real-world problems meet.
 
----
+Currently focused on:
 
-## 🛠️ Tech Stack
+- 🐍 Python & backend engineering
+- ⚡ FastAPI & asynchronous APIs
+- 🗄️ PostgreSQL & database design
+- 🤖 Generative AI & LLM applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 Agentic AI & tool calling
+- 📐 System design
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,git&theme=dark" alt="Backend and Databases" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend" />
-
-### AI / ML
-<img src="https://img.shields.io/badge/LLM%20APIs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
-<img src="https://img.shields.io/badge/Generative%20AI-312E81?style=for-the-badge&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/Agentic%20AI-06B6D4?style=for-the-badge&logoColor=white" alt="Agentic AI" />
+«My goal: Build reliable AI systems that solve real problems — not just AI demos.»
 
 ---
 
-## 🚀 Featured Projects
+🛠️ Tech Stack
 
-### OpportunityOS
-An AI-powered career assistant focused on helping students discover relevant opportunities and turn goals into action plans.
+<div align="center">Languages
 
-- Goal understanding
-- Opportunity discovery
-- Eligibility evaluation
-- Ranking and recommendations
-- Action planning and tracking
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark" />Backend & Databases
 
-Built with: Python, FastAPI, Next.js, PostgreSQL, Redis, LLM APIs
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,git&theme=dark" />Frontend
 
-### Portfolio
-My personal portfolio website built to showcase my work, projects, and interests in AI + software engineering.
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />AI & Data
 
-Built with: Next.js, React, Tailwind CSS
+<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></div>---
 
-### Travel App
-A travel-focused application built to explore modern frontend + app workflows and practical product design.
+🚀 Featured Projects
 
-Built with: TypeScript, React / frontend tooling
+<table>
+<tr><td width="50%" valign="top">🤖 OpportunityOS
+
+Agentic AI Career Assistant
+
+An AI-powered platform designed to help students turn their career goals into actionable opportunities.
+
+What it does
+
+- 🎯 Understands student goals
+- 🔎 Discovers relevant opportunities
+- ✅ Evaluates eligibility
+- 📊 Ranks opportunities
+- 🧠 Generates AI-powered recommendations
+- 📋 Creates personalized action plans
+- ⏰ Tracks tasks & deadlines
+
+Stack
+
+"Python" "FastAPI" "Next.js"
+"PostgreSQL" "Redis" "LLM APIs"
+
+🚧 Actively Building
+
+</td><td width="50%" valign="top">🩸 BloodConnect
+
+Blood Donor Finder
+
+A Flutter application designed to help users discover blood donors based on blood group and location.
+
+What it does
+
+- 🩸 Blood-group search
+- 📍 Location-based discovery
+- 👤 Donor profiles
+- 🔐 Authentication
+- 📱 Mobile-first experience
+
+Stack
+
+"Flutter" "Dart"
+"Supabase" "PostgreSQL"
+
+🏆 Hackathon Project
+
+</td></tr>
+</table>---
+
+🧠 Currently Learning
+
+Area| Focus
+🐍 Backend| Python · FastAPI · Async APIs
+🗄️ Data| SQL · PostgreSQL · Database Design
+🐳 Infrastructure| Git · Docker · AWS
+🤖 GenAI| LLM APIs · Prompt Engineering
+🔎 Retrieval| RAG · Embeddings · Context Retrieval
+🧠 Agents| Tool Calling · Agentic Workflows · MCP
+📐 Architecture| System Design · Production AI
 
 ---
 
-## 🧠 Currently Learning
+🎯 Current Focus
 
-- Python backend engineering
-- FastAPI and async APIs
-- PostgreSQL and database design
-- LLM application architecture
-- RAG and retrieval systems
-- Agentic workflows and tool calling
-- System design for production AI products
+🤖 Building       → OpportunityOS
 
----
+🐍 Strengthening  → Python + FastAPI
 
-## 📊 GitHub Stats
+🗄️ Learning       → PostgreSQL + Backend Architecture
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanpathro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB" alt="GitHub Stats" />
-</div>
+🔎 Exploring      → RAG + Agentic AI
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanpathro&bg_color=0D1117&color=22D3EE&line=6366F1&point=F97316&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-</div>
+⚙️ Improving      → APIs + Testing + Docker
+
+📐 Preparing      → System Design
+
+🚀 Goal           → AI Application Engineer
 
 ---
 
-## 🌐 Let’s Connect
+🏆 Achievements & Activities
 
-<div align="center">
-  <a href="https://github.com/mohanpathro">
-    <img src="https://img.shields.io/badge/GitHub-mohanpathro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohan-rao-pathro-525b21373/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rao%20Pathro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=mohanpathro&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+- 🏆 Participated in AI/technology hackathon projects
+- 🤖 Building an agentic AI career platform
+- 🩸 Built a Flutter-based real-world hackathon application
+- 💻 Consistently practicing DSA and backend engineering
+- 🚀 Exploring modern AI application architecture
 
 ---
 
-<div align="center">
-  <strong>Build. Learn. Ship. Repeat.</strong>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B1020&height=100&section=footer" width="100%" alt="Footer" />
-</div>
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=mohanpathro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanpathro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/><br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=mohanpathro&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" /></div>---
+
+🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohanpathro&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" /></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanpathro&bg_color=0D1117&color=22D3EE&line=6366F1&point=F97316&area=true&hide_border=true" width="95%"/></div>---
+
+🌐 Connect With Me
+
+<div align="center"><a href="https://github.com/mohanpathro">
+<img src="https://img.shields.io/badge/GitHub-mohanpathro-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/mohan-rao-pathro-525b21373/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rao%20Pathro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://instagram.com/mohan_pathro">
+<img src="https://img.shields.io/badge/Instagram-mohan__pathro-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="mailto:mohanpathro471@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohanpathro&style=flat-square&color=22D3EE&label=PROFILE+VIEWS"/></div>---
+
+<div align="center">💡 Build. Learn. Ship. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%"/></div>
